@@ -1,5 +1,6 @@
 # TestRepo
-test test
+
+
 git status
 git branch //to see how much branches you have
 git branch developer// to create developer branch
