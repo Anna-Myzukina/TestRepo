@@ -10,8 +10,6 @@ git status |
 git add . |
 git commit -m"comments" |
 git push origin developer | push your changes to branch than coding partner make in his terminal
-
-
 git pull | you coding partner make pull to see all your changes after git pull your coding partner make changes in project 
 
 <ul>merge branches 
